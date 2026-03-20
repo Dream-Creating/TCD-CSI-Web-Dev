@@ -1,4 +1,4 @@
- <style>
+<style>
         /* Element Selectors */
         * {
             margin: 0;
@@ -15,58 +15,58 @@
             margin-bottom: 0.5rem;
         }
         body {
-            color: #e0e0e0;
-            background-color: #0a0e27;
+            color: #46301a;
+            background-color: #597333;
             font-family: Arial, sans-serif;
             line-height: 1.6;
          }
          header {
-            background-color: #0f1a3d;
+            background-color: #eaddb3;
             margin: 2rem;
-            border-bottom: 3px solid  #ff00ff;
+            border-bottom: 3px solid  #46301a;
             padding: 2rem;
 
          }
          footer {
-            color: #00d4ff;
-            background-color: #0f1a3d;
+            color: #46301a;
+            background-color: #89ac43;
             margin: 2rem;
             text-align: center;
-            border-top: 3px solid #00d4ff;
+            border-top: 3px solid #46301a;
 
          }
          h1 {
-            color: #ff00ff;
+            color: #db7a31;
             font-size: 2.5rem;
             padding-bottom: 0.5rem;
          }
          h2 {
-            color: #00d4ff;
+            color: #e58133;
             font-size: 1.8rem;
             padding-top: 2rem;
             padding-bottom: 1rem;
             margin-bottom: 0.5rem;
-            border-bottom: 3px solid #ff00ff;
+            border-bottom: 3px solid #46301a;
          }
          h3 {
-            color: #ff00ff;
+            color: #b05b1a;
             font-size: 2.5rem;
             padding-bottom: 0.5rem;
             font-size: 1.3rem;
          }
          a {
-            color:  #00d4ff;
+            color:  #7678a3;
             font-weight: bold;
             text-decoration: none;
          }
          a:hover {
-            color: #ff00ff;
+            color: #9ea0c1;
          }
 
         /* Class Selectors */
         .highlight {
-            background-color: #1a2a5e;
-            color: #00d4ff;
+            background-color: #ded69e;
+            color: #46301a;
             padding: 0.25em 0.5em;
             border-radius: 4px;
             font-weight: bold;
@@ -80,9 +80,9 @@
         }
 
         .feature-card {
-            background-color: #1a2a5e;
+            background-color: #8ca854;
             padding: 1.5rem;
-            border: 2px solid #ff00ff;
+            border: 2px solid #46301a;
             border-radius: 8px;
             transition: all 0.3s ease;
         }
@@ -97,12 +97,12 @@
         }
 
         .accent-text {
-            color: #ff00ff;
+            color: #e58133;
             font-weight: bold;
         }
 
         .cyan-accent {
-            color: #00d4ff;
+            color: #6a853a;
             font-weight: bold;
         }
 
@@ -111,8 +111,8 @@
             line-height: 1.9;
             margin-bottom: 1.5rem;
             padding: 1rem;
-            background-color: #1a2a5e;
-            border-left: 4px solid #ff00ff;
+    
+            border-left: 4px solid #46301a;
             border-radius: 4px;
         }
 
@@ -136,7 +136,7 @@
 
         .btn {
             padding: 0.75rem 1.5rem;
-            background-color: #ff00ff;
+            background-color: #ba602c;
             color: #0a0e27;
             border: none;
             border-radius: 4px;
@@ -146,18 +146,18 @@
         }
 
         .btn:hover {
-            background-color: #00d4ff;
-            box-shadow: 0 0 15px rgba(0, 212, 255, 0.5);
+            background-color: #e58133;
+            box-shadow: 0 0 15px #e58133;
         }
 
         .btn-secondary {
-            background-color: #00d4ff;
+            background-color: #698740;
             color: #0a0e27;
         }
 
         .btn-secondary:hover {
-            background-color: #ff00ff;
-            box-shadow: 0 0 15px rgba(255, 0, 255, 0.5);
+            background-color: #89ac43;
+            box-shadow: 0 0 15px #89ac43;
         }
         /* stuff I changed */
         .container {
@@ -166,7 +166,7 @@
             margin: 1.5rem
          }
          .section {
-            background-color:#0f1a3d;
+            background-color: #f2e6bc;
             margin: 2rem;
             padding-bottom: 2rem;
             border-bottom-left-radius: 5px solid #00d4ff;
@@ -175,10 +175,10 @@
 
         /* ID Selector */
         #hero-section {
-            color: #00d4ff;
+            color: #46301a;
             text-align: center;
             border:none;
-            border-bottom: 3px dashed #ff00ff;
+            border-bottom: 3px dashed #46301a;
         }
 
         #contact-section {
